@@ -1,2 +1,2 @@
 # wssi26
-##pierwszy akapit
+pierwszy akapit
